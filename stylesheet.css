@@ -1,0 +1,11 @@
+.logo {
+    height: auto;
+    width: 40px;
+    flex: 1;
+    margin-left: 120px;
+    background-color: #1F2937;
+}
+
+.header {
+    background-color: #1F2937;
+}
